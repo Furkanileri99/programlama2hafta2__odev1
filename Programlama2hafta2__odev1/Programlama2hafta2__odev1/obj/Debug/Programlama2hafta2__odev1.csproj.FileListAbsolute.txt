@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\Programlama2hafta2__odev1\Programlama2hafta2__odev1\bin\Debug\Programlama2hafta2__odev1.exe.config
+C:\Users\Furkan\source\repos\Programlama2hafta2__odev1\Programlama2hafta2__odev1\bin\Debug\Programlama2hafta2__odev1.exe
+C:\Users\Furkan\source\repos\Programlama2hafta2__odev1\Programlama2hafta2__odev1\bin\Debug\Programlama2hafta2__odev1.pdb
+C:\Users\Furkan\source\repos\Programlama2hafta2__odev1\Programlama2hafta2__odev1\obj\Debug\Programlama2hafta2__odev1.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\Programlama2hafta2__odev1\Programlama2hafta2__odev1\obj\Debug\Programlama2hafta2__odev1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Programlama2hafta2__odev1\Programlama2hafta2__odev1\obj\Debug\Programlama2hafta2__odev1.exe
+C:\Users\Furkan\source\repos\Programlama2hafta2__odev1\Programlama2hafta2__odev1\obj\Debug\Programlama2hafta2__odev1.pdb
